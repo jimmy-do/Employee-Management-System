@@ -1,6 +1,8 @@
-package connection;
+package main;
 
 import java.sql.SQLException;
+
+import connection.ConnectionManager;
 
 public class Main {
 	
